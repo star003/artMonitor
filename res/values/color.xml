@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="red">#ffff0000</color>
+    <color name="yellow">#FFFF66</color>
+    <color name="salat">#66FF00</color>
+    <color name="blue">#3399FF</color>
+    
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="green">#33CC33</color>
+    <color name="ligthBlue">#33FFFF</color>
+    
+    <color name="back">#EDEDED</color>
+    <color name="noch">#E4F2FF</color>
+    <color name="ytro">#FFF0E6</color>
+    <color name="day">#FFFFF0</color>
+    <color name="vecher">#F0FFF0</color>
+    <color name="font">#776E99</color>
+    
+    <color name="gm0">#ECECEC</color>
+    <color name="gm1">#B8E9A5</color>
+    <color name="gm2">#FFECA0</color>
+    <color name="gm3">#FFA0A0</color>
+    <color name="gm4">#FF6666</color>
+    <color name="gm5">#BF2525</color>
+    <color name="gm6">#990000</color>
+    <color name="gm7">#A000A0</color>
+    <color name="gm8">#570257</color>
+    
+</resources>

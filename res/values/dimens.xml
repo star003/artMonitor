@@ -1,0 +1,30 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="tabloDim20">20dp</dimen>
+    <dimen name="tabloDim10mm">10mm</dimen>
+    <dimen name="tabloDim20mm">20mm</dimen>
+    <dimen name="tabloDim3mm">3mm</dimen>
+    <dimen name="dim01mm">1mm</dimen>
+    <dimen name="dim02mm">2mm</dimen>
+    <dimen name="dim3mm">3mm</dimen>
+    <dimen name="dim5mm">5mm</dimen>
+    <dimen name="dim7mm">5mm</dimen>
+    <dimen name="dim701mm">7mm</dimen>
+	<dimen name="dim10mm">10mm</dimen>
+	<dimen name="dim15mm">15mm</dimen>
+	<dimen name="dim20mm">20mm</dimen>
+	<dimen name="dim25mm">25mm</dimen>
+	<dimen name="dim30mm">30mm</dimen>
+	<dimen name="dim35mm">35mm</dimen>
+	<dimen name="dim40mm">40mm</dimen>
+	<dimen name="dim45mm">45mm</dimen>
+	<dimen name="dim50mm">50mm</dimen>
+	<dimen name="dim55mm">55mm</dimen>
+	<dimen name="dim60mm">60mm</dimen>
+	
+	<dimen name="dim3px">3px</dimen>
+
+</resources>

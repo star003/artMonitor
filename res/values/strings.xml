@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">Bluetooth1</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Bluetooth1</string>
+    <string name="btn_ON">Включить LED</string>
+    <string name="btn_OFF">Выключить LED</string>
+    
+   <string name="hello_world">Hello world!</string>
+   <string name="action_settings">Settings</string>
+
+</resources>
